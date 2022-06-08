@@ -1,9 +1,5 @@
 # mernbook
-
-Visit Our App!
-https://mernbookmb.netlify.app/
-
-Tech used:
+Tech Stack used:
 React js
 Express js
 Node js
